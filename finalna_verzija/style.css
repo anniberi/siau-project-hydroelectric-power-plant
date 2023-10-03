@@ -1,0 +1,13 @@
+QPushButton {
+	background-color: #16558F;
+	color: white;
+	border: 2px solid black;
+}
+
+QMainWindow {
+	background-color: #B8E3FF;
+}
+
+QTextEdit {
+	background-color: #61B0B7;
+}
