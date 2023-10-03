@@ -3,7 +3,7 @@ This is my project for the course SIAU in which I have simulated a hydroelectric
 
 There are two main files in this project - the "main.py" file inside of "finalna_verzija" and the file "finalni_miC.py". 
 
-Everything in "finalna_verzija" is for QtCreator - it uses PyQt6. This "finalna_verzija" can be ran as a project in QtCreator. This part of the hydroelectric power plant is the control room of the power plant. 
+Everything in "finalna_verzija" is for QtCreator - it uses PyQt6. The contents of "finalna_verzija" can be ran as a project in QtCreator. This part of the hydroelectric power plant is the control room of the power plant. 
 
 The file "finalni_miC.py" is the dam of the power plant. This file can be ran through the console on any computer with an internet connection. When that is done, and the Qt project is ran, they then communicate with each other through MQTT.
 
